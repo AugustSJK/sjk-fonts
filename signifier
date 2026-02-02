@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Signifier';
+  src: url('./signifier-extralight.woff2') format('woff2'),
+       url('./signifier-extralight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
